@@ -1,0 +1,2 @@
+"id","operation","baseCurrency","baseCurrencyAmount","createdAt","quoteCurrency","quoteCurrencyAmount","feeAmount","extraFeeAmount","networkFeeAmount","status"
+"802e3c18-ca0c-4613-bbd5-cdd6a904d1e7","buy","jod",93.77,"2025-03-23T07:50:34.934Z","eth",,4.22,0,2.02,"pending"
